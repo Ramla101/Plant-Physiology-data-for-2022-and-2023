@@ -1,0 +1,11 @@
+5p+ Fv/m Test
+Sample #,Date,Time,Mod Int,Mod Wl,Det Gain,Sat Flash Int,Sat PW,Far Red Mode,Far Red Int,Far Red Dur,Fo,Fm,Fv,Fv/m,Fv/o
+   1, 6/27, 9:18,  50,R,  12,  75,0.8,Off,  50,   5, 850,2961,2111,0.712,2.483
+   2, 6/27, 9:20,  50,R,  12,  75,0.8,Off,  50,   5,1071,3369,2298,0.682,2.145
+   3, 6/27, 9:20,  50,R,  12,  75,0.8,Off,  50,   5,1169,3129,1960,0.626,1.676
+   4, 6/27, 9:20,  50,R,  12,  75,0.8,Off,  50,   5, 807,3517,2710,0.770,3.358
+5p+ Fv/m Test
+Sample #,Date,Time,Mod Int,Mod Wl,Det Gain,Sat Flash Int,Sat PW,Far Red Mode,Far Red Int,Far Red Dur,Fo,Fm,Fv,Fv/m,Fv/o
+   1, 6/27, 9:29,  50,R,  12,  75,0.8,Off,  50,   5, 795,2111,1316,0.623,1.655
+   2, 6/27, 9:31,  50,R,  12,  75,0.8,Off,  50,   5,1077,3450,2373,0.687,2.203
+   3, 6/27, 9:31,  50,R,  12,  75,0.8,Off,  50,   5, 253, 826, 573,0.693,2.264

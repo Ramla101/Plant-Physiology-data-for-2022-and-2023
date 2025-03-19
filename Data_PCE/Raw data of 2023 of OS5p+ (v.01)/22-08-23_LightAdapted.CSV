@@ -1,0 +1,29 @@
+5p+ Yield PS(II) Test
+Sample #,Date,Time,Mod Int,Mod Wl,Det Gain,Sat Flash Int,Sat Width,Flash Mode,Far Red Mode,Far Red Int,Far Red Dur,Pre-Illum Mode,Illum Dur,Ke,Kq,PAR Corr,F',Fm',Y(II),ETR,PAR,Temp
+   1, 8/22, 9:41,  80,R,  12,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 199, 453,0.560,  3.9,  17,23.7
+   2, 8/22, 9:41,  80,R,  12,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 200, 386,0.481,  2.2,  11,23.8
+   3, 8/22, 9:43,  80,R,  12,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 204, 357,0.428, 24.7, 138,24.8
+5p+ Yield PS(II) Test
+Sample #,Date,Time,Mod Int,Mod Wl,Det Gain,Sat Flash Int,Sat Width,Flash Mode,Far Red Mode,Far Red Int,Far Red Dur,Pre-Illum Mode,Illum Dur,Ke,Kq,PAR Corr,F',Fm',Y(II),ETR,PAR,Temp
+   1, 8/22, 9:52,  80,R,  12,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 201, 413,0.513, 16.5,  77,24.1
+   2, 8/22, 9:52,  80,R,  12,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 184, 241,0.236,  6.6,  67,24.9
+!100                               
+5p+ Yield PS(II) Test
+Sample #,Date,Time,Mod Int,Mod Wl,Det Gain,Sat Flash Int,Sat Width,Flash Mode,Far Red Mode,Far Red Int,Far Red Dur,Pre-Illum Mode,Illum Dur,Ke,Kq,PAR Corr,F',Fm',Y(II),ETR,PAR,Temp
+   1, 8/22,13:18,  80,R,  12,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 155, 261,0.406, 56.7, 333,28.7
+   2, 8/22,13:19,  80,R,  12,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 302, 513,0.411, 26.4, 153,28.9
+5p+ Yield PS(II) Test
+Sample #,Date,Time,Mod Int,Mod Wl,Det Gain,Sat Flash Int,Sat Width,Flash Mode,Far Red Mode,Far Red Int,Far Red Dur,Pre-Illum Mode,Illum Dur,Ke,Kq,PAR Corr,F',Fm',Y(II),ETR,PAR,Temp
+   1, 8/22,13:25,  80,R,  12,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 199, 502,0.603,  8.1,  32,27.8
+   2, 8/22,13:26,  80,R,  12,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 176, 317,0.444, 13.9,  75,28.2
+   3, 8/22,13:27,  80,R,  12,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 209, 443,0.528, 13.5,  61,28.5
+5p+ Yield PS(II) Test
+Sample #,Date,Time,Mod Int,Mod Wl,Det Gain,Sat Flash Int,Sat Width,Flash Mode,Far Red Mode,Far Red Int,Far Red Dur,Pre-Illum Mode,Illum Dur,Ke,Kq,PAR Corr,F',Fm',Y(II),ETR,PAR,Temp
+   1, 8/22,16:40,  80,R,  12,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 215, 489,0.560,  7.0,  30,25.5
+   2, 8/22,16:40,  80,R,  12,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 210, 502,0.581,  4.6,  19,25.5
+   3, 8/22,16:40,  80,R,  12,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 189, 463,0.591,  6.7,  27,25.5
+5p+ Yield PS(II) Test
+Sample #,Date,Time,Mod Int,Mod Wl,Det Gain,Sat Flash Int,Sat Width,Flash Mode,Far Red Mode,Far Red Int,Far Red Dur,Pre-Illum Mode,Illum Dur,Ke,Kq,PAR Corr,F',Fm',Y(II),ETR,PAR,Temp
+   1, 8/22,16:51,  80,R,  12,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 190, 225,0.155, 22.0, 339,26.3
+   2, 8/22,16:52,  80,R,   8,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 266, 563,0.527,  5.7,  26,26.5
+   3, 8/22,16:52,  80,R,   8,  75,0.8,S,Off,  50,   5,Off, 1.0,0.50,0.84,1.00, 206, 456,0.548, 11.0,  48,26.9
